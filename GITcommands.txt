@@ -1,0 +1,10 @@
+GIT Commands :
+-----------------------
+The various GIT commands are, 
+(i) git init - > initializes the git repository/ creates a new git repository
+(ii) git clone -> it relates the local repository to the rempte repository. It targets an existing repository and creates a clone.
+(iii) git config  --> it is used to set the git configuration values.
+(iv) git add  --> it adds the file from the working directory to the staging area.
+(v) git commit --> it saves the file to the local repository
+(vi) git gui --> opens the git gui
+(vii) git push --> It pushes the file from local repository to rempte repository.
